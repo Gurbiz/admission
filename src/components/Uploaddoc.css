@@ -1,0 +1,17 @@
+.apli{
+    margin-top: 30px;
+}
+.apli1{
+    margin-top: 70px;
+}
+.apli2{
+    margin-top: 20px;
+    justify-content: center;
+}
+.but{
+    justify-content: space-around;
+    display: flex;
+}
+.tut{
+    margin-top: 30px;
+}

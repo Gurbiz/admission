@@ -1,0 +1,13 @@
+.spacing{
+    margin: 0px 0px 5% 10%;
+    display: flex;
+}
+.container{
+    width: 60%;
+    margin: 7%;
+}
+
+.butn{
+    display: flex;
+    justify-content: space-around;
+}
